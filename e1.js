@@ -45,7 +45,7 @@ logMyMessage(message);
   * The function MUST use NAMED function syntax.
   * The function logs a message of 'My name is <name>!'.
   * The name is a string value passed as an argument
- * logMessageWithMyName('Andrey') => 'My name is Andrey!'
+ * logMessageWithMyName('Andrew') => 'My name is Andrew!'
 */
 
 // Your code goes here...
@@ -64,7 +64,7 @@ logMessageWithMyName(name);
   * The function of logs a message of 'My name is <name>. I am <age> years old!'.
   * The name is a string value passed as an argument.
   * The age is a number value passed as an argument.
- * logMyInfo('Andrey', 18) => 'My name is Andrey. I am 18 years old!'
+ * logMyInfo('Andrew', 18) => 'My name is Andrew. I am 18 years old!'
 */
 
 // Your code goes here...
